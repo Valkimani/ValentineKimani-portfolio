@@ -1,14 +1,15 @@
 body {
-  background: rgb(214, 211, 211);
+  color: rgb(141, 138, 138);
+}
+
+.navbar-light .navbar-brand {
+  color: rgba(0, 0, 0, 0.9);
+  background-color: teal;
+  color: white;
 }
 
 h1 {
   color: teal;
-}
-
-.navbar-light .navbar-brand {
-  background: teal;
-  color: white;
 }
 
 .mr-auto,
