@@ -23,3 +23,14 @@ h1 {
   width: 50%;
   margin-left: 25px;
 }
+header h1 {
+  margin-left: 15px;
+}
+button {
+  color: white;
+  background-color: teal;
+  margin-left: 14px;
+  margin-bottom: 14px;
+  border: teal;
+  padding: 18px;
+}
