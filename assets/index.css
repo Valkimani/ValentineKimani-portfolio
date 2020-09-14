@@ -15,3 +15,10 @@ h1 {
 .mx-auto {
   margin-right: auto !important;
 }
+.form {
+  float: left;
+  background-color: white;
+  height: 75%;
+  width: 50%;
+  margin-left: 25px;
+}
