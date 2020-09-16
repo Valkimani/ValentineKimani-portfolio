@@ -1,5 +1,5 @@
 body {
-  background: rgb(214, 211, 211);
+  background-image: url("https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png");
 }
 
 h1 {
@@ -15,6 +15,14 @@ h1 {
 .mx-auto {
   margin-right: auto !important;
 }
+.squares {
+  float: left;
+  background-color: white;
+  height: 75%;
+  width: 50%;
+  margin-left: 25px;
+}
+
 .form {
   float: left;
   background-color: white;
@@ -22,14 +30,13 @@ h1 {
   width: 50%;
   margin-left: 25px;
 }
-header h1 {
-  margin-left: 15px;
+.images {
+  padding-bottom: 25px;
 }
-img {
-  vertical-align: middle;
-  border-style: none;
-  float: left;
-  width: 200px;
-  margin-left: 25px;
-  margin-right: 25px;
+.text-center {
+  color: grey;
+}
+
+header h1 {
+  margin-left: 18px;
 }

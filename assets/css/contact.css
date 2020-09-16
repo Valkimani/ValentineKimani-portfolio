@@ -1,5 +1,5 @@
 body {
-  color: rgb(141, 138, 138);
+  background-image: url("https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png");
 }
 
 .navbar-light .navbar-brand {
@@ -24,7 +24,7 @@ h1 {
   margin-left: 25px;
 }
 header h1 {
-  margin-left: 15px;
+  margin-left: 18px;
 }
 button {
   color: white;
