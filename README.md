@@ -25,7 +25,7 @@ as stated below.
 
 - Screenshot
 
-![About](./images/about.png)
+![About](./images/About.jpg)
 ![Contact](./images/contact.png)
 ![Portfolio](./images/portfolio.png)
 
@@ -38,6 +38,8 @@ https://github.com/Valkimani/ValentineKimani-portfolio
 
 - Credits:
   https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+
+  https://validator.w3.org/
 
   © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
