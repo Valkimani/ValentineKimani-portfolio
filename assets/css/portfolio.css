@@ -31,6 +31,7 @@ h1 {
   height: 75%;
   width: 800px;
   margin-left: 25px;
+  padding-bottom: 20px;
 }
 .images {
   padding-bottom: 25px;
@@ -42,7 +43,7 @@ h1 {
 header h1 {
   margin-left: 18px;
 }
-/*Added media query to the style css.*/
+/*Added media query to the portfolio css.*/
 @media screen and (max-width: 768px) {
   .form {
     float: none;
