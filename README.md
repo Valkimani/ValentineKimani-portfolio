@@ -4,14 +4,14 @@
 
 # Description
 
-This is a Responsive design project. Screenshots were provided as a reference, The task is to ensure that all web applications render well on a variety of devices and window or screen sizes.
+This is a Responsive design project. Screenshots were provided as a reference. The code is adjusted to ensure that all web applications render well on a variety of devices and window or screen sizes.
 
 ##
 
 To achieve this, Bootstrap CSS Framework has been used to create a mobile responsive portfolio using the following:
-as stated below.
 
-- I created `index.html`, `portfolio.html` and `contact.html` files to build the code in.
+
+- Created `index.html`, `portfolio.html` and `contact.html` files to build the code in.
 - Added a navbar to the header to accomodate the html links. When reduced, the nav bar reduces with the screen while acccomodating the links.
 - To achievce the responseive layout, media queries were used as well as the bootstrap grid system (containers, rows, and columns) .
 - Width and display properties were used to make the images more responsive.
