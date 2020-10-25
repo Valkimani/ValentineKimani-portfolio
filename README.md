@@ -12,15 +12,15 @@ To achieve this, Bootstrap CSS Framework has been used to create a mobile respon
 as stated below.
 
 - I created `index.html`, `portfolio.html` and `contact.html` files to build the code in.
-- Added a navbar to the header to accomodate html links. When reduced, the nav bar reduces with the screen while acccomodating the links.
-- To achievce the responseive layout, media quesrries were used as well as the bootstrap grid system (containers, rows, and columns) .
+- Added a navbar to the header to accomodate the html links. When reduced, the nav bar reduces with the screen while acccomodating the links.
+- To achievce the responseive layout, media queries were used as well as the bootstrap grid system (containers, rows, and columns) .
 - Width and display properties were used to make the images more responsive.
 
-# To validate the code was working a per the refernec provided,
+# To validate the code was working a per the reference provided,
 
 - An HTML validation service was used to ensure that each page has valid HTML.
-- When the screen size is adjusted, content on an `xs` screen takes up the entire screen. On `sm` and larger screens has some margins on the left and right sides of the screen.
-- When the links are clicked, the load the responsive pages.
+- When the screen size is adjusted, content on an `xs` screen takes up the entire screen. On `sm` and larger screen has margins on the left and right sides of the screen.
+- When the links are clicked, they load the responsive pages.
 - Semantic elements like <nav></nav> were used to replace div elements.
 
 - Screenshot
